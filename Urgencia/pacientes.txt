@@ -1,0 +1,5 @@
+1;Juan	Pérez;26;Fonasa;Fiebre alta;A
+2;Peter	Lory;56;Fonasa;Dolor intenso;C
+3;Ana	Arriaga;16;Isapre;Fractura pierna;A
+4;Luisa	Godoy;45;Fonasa;Amigdalitis;B
+5;Tomás	Gonzalez;27;Isapre;Malestar general;D
